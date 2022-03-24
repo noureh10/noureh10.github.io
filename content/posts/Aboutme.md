@@ -10,8 +10,7 @@ On this small article, you'll find everything to know about what to expect from 
 
 ##### Curriculum Vitae
 
-If you came to check my skills and competences, you're on the spot ! You'll find a short yet informative Curriculum Vitae about my education, my experience and all the things that
-revolves around it.
+If you came to check my skills and competences, you're on the spot ! You'll find a short yet informative Curriculum Vitae on my website.
 
 ##### Programming
 
@@ -20,7 +19,7 @@ when talking about programming in general. On this website, you'll find some of 
 
 ##### Domotics
 
-I am fascinated by home automation and all the things you can achieve with the [Internet of Things](https://www.oracle.com/internet-of-things/what-is-iot/#:~:text=What%20is%20IoT%3F,and%20systems%20over%20the%20internet.), you'll find here some of my projects to transform my house into a smart home.
+I am fascinated by home automation and all the things you can achieve with the [Internet of Things](https://www.oracle.com/internet-of-things/what-is-iot/#:~:text=What%20is%20IoT%3F,and%20systems%20over%20the%20internet.) using platforms such as Raspberry PI. Here, you will find my projects to transform my house into a smart home.
 
 
 
