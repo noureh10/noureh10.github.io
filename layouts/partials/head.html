@@ -2,9 +2,11 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <title>{{ if eq .IsHome true }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
   {{ if .IsPage -}}
   <link rel="stylesheet" href="{{site.BaseURL}}assets/css/post.css" />
+  <link rel="icon" type="image/png" href="../../static/assets/icon/favicon.png">
   <script defer src="{{site.BaseURL}}assets/js/lbox.js"></script>
   {{ else }}
   <link rel="stylesheet" href="{{site.BaseURL}}assets/css/blog.css" />
