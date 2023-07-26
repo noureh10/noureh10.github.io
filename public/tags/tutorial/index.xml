@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Nour&#39;s Website</title>
+    <link>https://noureh10.github.io/tags/tutorial/</link>
+    <description>Recent content in tutorial on Nour&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://noureh10.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PCSX2 : A PS2 Emulator</title>
+      <link>https://noureh10.github.io/posts/ps2_emulator/ps2emulator/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://noureh10.github.io/posts/ps2_emulator/ps2emulator/</guid>
+      <description>Table of contents  Introduction Minimum requirements Prerequisites  Dumping your BIOS Download your BUIS PS2 ROM   Installing PCSX2 Configuration  Controller Emulation settings Graphics settings   Loading your game Conclusion Sources  Introduction  Have you ever wanted to play some sweet classics such as &amp;ldquo;Jak X : Combat Racing&amp;rdquo; or &amp;ldquo;Ratchet and Clank&amp;rdquo; ? But your find yourself with your back against the wall because you don&amp;rsquo;t own a PS2 or find it non convenient?</description>
+    </item>
+    
+  </channel>
+</rss>

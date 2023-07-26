@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = "Nour's Website"
 [markup.goldmark.renderer]
   unsafe = true # 
+googleAnalytics="G-0C29191C3V"

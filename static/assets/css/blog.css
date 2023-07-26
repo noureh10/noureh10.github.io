@@ -66,6 +66,8 @@ main {
 #text-wrapper a {
   color: cyan;
   border-bottom: 1px solid cyan;
+  text-align: justify;
+
 }
 #social-wrapper {
   margin-top: 1rem;

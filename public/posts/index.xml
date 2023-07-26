@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nour&#39;s Website</title>
+    <link>https://noureh10.github.io/posts/</link>
+    <description>Recent content in Posts on Nour&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://noureh10.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A new website ?</title>
+      <link>https://noureh10.github.io/posts/a_new_website/introduction/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://noureh10.github.io/posts/a_new_website/introduction/</guid>
+      <description>Hello stranger !
+On this small blog post, you&amp;rsquo;ll find everything to know about what to expect from this platform. Let&amp;rsquo;s talk about the main topics that will be covered here.
+Programming &amp;ldquo;Why should a human do it if a machine can achieve it&amp;rdquo; is perhaps one of my favorite quote when talking about programming in general. On this website, you&amp;rsquo;ll find some of my programming and automation projects and documentation related to it.</description>
+    </item>
+    
+    <item>
+      <title>PCSX2 : A PS2 Emulator</title>
+      <link>https://noureh10.github.io/posts/ps2_emulator/ps2emulator/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://noureh10.github.io/posts/ps2_emulator/ps2emulator/</guid>
+      <description>Table of contents  Introduction Minimum requirements Prerequisites  Dumping your BIOS Download your BUIS PS2 ROM   Installing PCSX2 Configuration  Controller Emulation settings Graphics settings   Loading your game Conclusion Sources  Introduction  Have you ever wanted to play some sweet classics such as &amp;ldquo;Jak X : Combat Racing&amp;rdquo; or &amp;ldquo;Ratchet and Clank&amp;rdquo; ? But your find yourself with your back against the wall because you don&amp;rsquo;t own a PS2 or find it non convenient?</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT :</title>
+      <link>https://noureh10.github.io/posts/chatgpt/chatgpt/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://noureh10.github.io/posts/chatgpt/chatgpt/</guid>
+      <description>Table of content Introduction Chat GPT (short for chat Generative Pretrained Transformer) is a large language model trained by OpenAI to assist in generating human-like text. It uses a deep learning technique called transformer architecture to generate responses to user input, allowing for natural and engaging conversation. Chat GPT has been trained on a vast amount of text data, giving it the ability to understand and respond to a wide range of topics and queries.</description>
+    </item>
+    
+  </channel>
+</rss>
