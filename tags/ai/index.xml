@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Nour&#39;s Website</title>
+    <link>https://noureh10.github.io/tags/ai/</link>
+    <description>Recent content in AI on Nour&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://noureh10.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT :</title>
+      <link>https://noureh10.github.io/posts/chatgpt/chatgpt/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://noureh10.github.io/posts/chatgpt/chatgpt/</guid>
+      <description>Table of content Introduction Chat GPT (short for chat Generative Pretrained Transformer) is a large language model trained by OpenAI to assist in generating human-like text. It uses a deep learning technique called transformer architecture to generate responses to user input, allowing for natural and engaging conversation. Chat GPT has been trained on a vast amount of text data, giving it the ability to understand and respond to a wide range of topics and queries.</description>
+    </item>
+    
+  </channel>
+</rss>
