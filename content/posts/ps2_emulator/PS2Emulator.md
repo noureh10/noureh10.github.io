@@ -28,13 +28,13 @@ weight: 3
 
 ##### Introduction <a name="introduction"></a>
 
-Have you ever wanted to play some sweet classics such as "Jak X : Combat Racing" or "Ratchet and Clank" ? But your find yourself with your back against the wall because you don't own a PS2 or find it non convenient? Well fear no more ! Here we'll discuss about [PCSX2](https://pcsx2.net/), an open-source software that let you play PS2 games on your computer. 
+Have you ever wanted to play some sweet classics such as "Jak X : Combat Racing" or "Ratchet and Clank"  but find yourself stuck because you don't own a PS2 or find it non convenient? Well fear no more ! Here we'll discuss about [PCSX2](https://pcsx2.net/), an open-source project that let you play PS2 games on your computer. 
 
-Before installing this piece of software, let's talk about the minimum requirements as well as the prerequisites.
+Before installing the software, let's talk about the minimum requirements as well as the prerequisites.
 
 ##### Minimum requirements <a name="mr"></a>
 
-**Operating system** : Windows 8.1 or highter / Ubuntu 18.04 or higher.
+**Operating system** : Windows 8.1 or higher / Ubuntu 18.04 or higher.
 
 **CPU** : SSE4.1 support -> anything above the Silvermont micro-architecture for
  Intel and K10-based micro-architecture for AMD.
@@ -45,7 +45,7 @@ Before installing this piece of software, let's talk about the minimum requireme
 
 ##### Prerequisites <a name="pr"></a>
 
-You'll will need two things before installing the emulator :
+You will need two things before installing the emulator :
 
 - BIOS file
 - PS2 ROM
@@ -60,8 +60,7 @@ There are two ways of obtaining a BIOS:
 
 ###### Dumping your BIOS <a name="bios"></a>
 
-Dumping your PS2 bios seems like a tedious process reserved for tech savvy people but it's really not. There
- are many ways to achieve it : 
+Dumping your PS2 BIOS seems like a tedious process reserved for tech savvy people but it's really not. There are many ways to achieve it : 
 - Using a FMCB Memory card (purchasable 
 <a href="https://www.amazon.com/RGEEK-FreeMcBoot-1-953-Memory-Playstation/dp/B07PB2DYTT" target="_blank">here</a>)
 - Using Swap Magic disks (the method I personally used, disk purchasable 
@@ -76,12 +75,11 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 ###### Downloading your BIOS <a name="bios2"></a>
 
-When it comes to downloading BIOS from the Internet, it is illegal since the BIOS is an intellectual property that belongs to Sony. Realistically, you can easily find  all the PS2 BIOS on the internet distributed by websites or cloud platforms. Act at your own risk.
+When it comes to downloading BIOS from the web, it is illegal since the BIOS is an intellectual property that belongs to Sony. Realistically, you can easily find  all the PS2 BIOS online distributed by websites or cloud platforms. Act at your own risk.
 
 ###### PS2 ROM <a name="ROM"></a>
 
-Obviously, you'll also need games to play. Depending on your country legislation, you can or cannot make a copy of
-your PS2 game if it is for personal use. If you don't want to deal with the hassle of copying your game , there's a way to play PS2 CD's directly from your computer disk reader.
+Obviously, you'll also need games to play. Depending on your country legislation, you can or cannot make a copy of your PS2 game if it is for personal use. If you don't want to deal with the hassle of copying your game , there's a way to play PS2 CD's directly from your computer disk reader.
 
 Assuming that you want to make a copy of your game so you don't have to constantly put your game on the disk reader, you have to use a disk burner software such as <a href="https://ninite.com/imgburn/" target="_blank">ImgBurn</a>.
 
@@ -118,9 +116,7 @@ If you are on Windows, you would download the PCSX2 setup executable. Once it's 
 	<img src="/images/PS2Tutorial/4.PNG" width="50%">
 </div>
 
-
-
-After all these steps, you'll have a working PS2 with no controls nor game. To check if the PS2 BIOS is good, boot
+After all these steps, you'll have a working PS2 with no controls nor games. To check if the PS2 BIOS is OK, boot
 the PS2 by first pressing on CDVD > No disc then click on System > Boot BIOS.
 
 <div align="center">
@@ -160,19 +156,19 @@ to go over Config > Emulations Settings > Speedhacks.
 </div>
 
 When you're here, activate MTVU (if your CPU has more than 3 cores). There's a little slider on the bottom, set it to balanced and apply
- the settings. You might want to set the slider to agressive mode if your CPU is underperforming.
+ the settings. You might want to set the slider to aggressive mode if your CPU is underperforming.
 
 <div align="center">
 	<img src="/images/PS2Tutorial/9.PNG" width="50%">
 </div>
 
 If you face any instability when playing a certain game (frame drop, weird textures), I advise you to do these two things in this order.
-First, modify the preset level to a less agressive level. If it's not helping, then disable MTVU as a last resort.
+First, modify the preset level to a less aggressive level. If it's not helping, then disable MTVU as a last resort.
 
 ###### Graphics settings <a name="gset"></a>
 
-Now, we want to tweak the graphics settings. Everyone doesn't have the same PC componants so it is really important to adapt your 
-settings depending of your PC capacitiy. 
+Now, we want to tweak the graphics settings. Everyone doesn't have the same PC components so it is really important to adapt your 
+settings depending of your PC capacity. 
 
 Here's a list of configurations for all types of computers : 
 
@@ -182,7 +178,7 @@ Here's a list of configurations for all types of computers :
 
 ###### Loading your game <a name="game"></a>
 
-Loading your game is easy as ABC, open PCSX2 and click on CDVD. Now choose the source of your ISO (HDD, diskreader) and it's done ! 
+Loading your game is easy as ABC, open PCSX2 and click on CDVD. Now choose the source of your ISO (HDD, disk reader) and it's done ! 
 You're playing PS2 game on your computer, brilliant isn't it?
 
 <div align="center">
@@ -196,5 +192,5 @@ on your setup is always appreciated. I hope this article has guided you through 
 
 ###### Sources <a name="src"></a>
 
-PCSX2 Wikipedia page on <a href="https://en.wikipedia.org/wiki/PCSX2#Hardware_requirements" target="_blank">hardware requirements</a>, consulted the 8th Arpil 2022.
+PCSX2 Wikipedia page on <a href="https://en.wikipedia.org/wiki/PCSX2#Hardware_requirements" target="_blank">hardware requirements</a>, consulted the 8th April 2022.
 
